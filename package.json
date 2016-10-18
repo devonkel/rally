@@ -4,7 +4,7 @@
   "private": true,
   "author": "Devon Kelly",
   "license": "MIT",
-  "main": "index.js",
+  "main": "app.js",
   "repository": {
     "type": "git",
     "url": "https://github.com/devonkel/rally.git"

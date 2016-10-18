@@ -8,7 +8,9 @@ This application will utilize the Rally API with Node.JS to generate Rally dashb
 + Express
 + MongoDB
 + Rally - Rally/Node https://github.com/RallyTools/rally-node
-+ 
 
 Installation:
 + npm i
+
+Run Application:
++ npm start
