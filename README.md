@@ -16,6 +16,7 @@
 ##Run Application:
 
 ``` npm start ```
+
 This will install all of the node dependencies included in the `package.json` file.  All of the dependent files will be loaded under `./node_modules` directory.  Make sure you include an entry in the `./.gitignore` file for any files/folders you do not want saved in the repository.
 
 ##Build Application:
@@ -28,5 +29,7 @@ This will install all of the node dependencies included in the `package.json` fi
 
 ##Outstanding Items:
 [ ] Install Rally Dev Generator
+
 [ ] Configure with AA Rally OAuth
+
 [ ] Implement Schema / Connect classes
