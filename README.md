@@ -10,7 +10,7 @@ This application will utilize the Rally API with Node.JS to generate Rally dashb
 + Rally - Rally/Node https://github.com/RallyTools/rally-node
 
 Installation:
-''' npm i '''
+``` npm i ```
 
 Run Application:
-+ npm start
+``` npm start ```
